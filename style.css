@@ -97,8 +97,8 @@ display: flex;
 justify-content: space-around;
 }
 .escola-image{
-    width: 60%;
-    max-width: 800px;
+    width: 20%;
+    max-width: 200px;
     height: auto;
 }
 .escola-titulo{
